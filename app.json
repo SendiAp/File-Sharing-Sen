@@ -35,17 +35,17 @@
     },
     "START_MESSAGE": {
       "description": "Optional: mulai pesan bot, gunakan HTML parsemode format",
-      "value": ""
+      "value": "0",
       "required": false
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Paksa Sub pesan bot, gunakan format parsemode HTML",
-      "value": ""
+      "value": "0",
       "required": false
     },
     "ADMINS": {
       "description": "Daftar user_id Admin yang dipisahkan spasi, mereka hanya dapat membuat tautan",
-      "value": "",
+      "value": "0",
       "required": false
     },
     "PROTECT_CONTENT": {
