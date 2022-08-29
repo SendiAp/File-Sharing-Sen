@@ -35,12 +35,12 @@
     },
     "START_MESSAGE": {
       "description": "Optional: mulai pesan bot, gunakan HTML parsemode format",
-      "value": "0",
+      "value": "Hai {fistname}!\nSaya Dapat Menyimpan Beberapa File Yang Diakses Dengan Link.",
       "required": false
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Paksa Sub pesan bot, gunakan format parsemode HTML",
-      "value": "0",
+      "value": "{firstname} Sepertinya Kamu Belum Memasuki Channel🙅\n◻️ Masuk Channel Dan Coba Lagi</b>",
       "required": false
     },
     "ADMINS": {
